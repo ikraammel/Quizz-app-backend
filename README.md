@@ -20,7 +20,3 @@ Review the source files and dependency manifests for the project's runtime and c
 ## Project structure
 
 Browse the source folders in this repository to explore the implementation. For projects with separate frontend and backend components, configure and run each component independently.
-
-## Author
-
-[Ikram El Houl](https://github.com/ikraammel)
